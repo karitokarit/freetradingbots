@@ -272,7 +272,7 @@
                 </value>
                 <value name="THEN">
                   <block type="math_number" id="xqb3a!d(|TxFAbZs9%OK">
-                    <field name="NUM">5</field>
+                    <field name="NUM">6</field>
                   </block>
                 </value>
                 <value name="ELSE">
@@ -316,12 +316,12 @@
                         </value>
                         <value name="THEN">
                           <block type="math_number" id="Mp8=@PCnD:d1L?SN*JO,">
-                            <field name="NUM">5</field>
+                            <field name="NUM">6</field>
                           </block>
                         </value>
                         <value name="ELSE">
                           <block type="math_number" id="yo*3U*iIU1u64o66*bV%">
-                            <field name="NUM">5</field>
+                            <field name="NUM">6</field>
                           </block>
                         </value>
                       </block>
